@@ -1,0 +1,29 @@
+#respuesta{
+    display: none;
+}
+#respuesta2{
+    display: none;
+}
+#respuesta3 {
+    display: none;
+}
+
+.form-select {
+    width: 40%;
+}
+
+.moneda{
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.moneda input {
+    border: 0;
+    font-size: 30px;
+    text-align: right;
+}
+
+.taza-cambio-container{
+    font-weight: bolder;
+}
